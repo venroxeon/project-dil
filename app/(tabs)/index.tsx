@@ -21,7 +21,7 @@ export default function HomeScreen() {
         <HelloWave />
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Guys, sach mein humein ye project start karna chahiye, ye kaam bahut zyada lamba khinch gaya hai. Hamare paas literally sirf 4 week bache hain. Hallelujah 😬!</ThemedText>
+        <ThemedText type="subtitle">Guys, sach mein humein ye project start karna chahiye, ye kaam bahut zyada lamba khinch gaya hai. Hamare paas literally sirf 4 week bache hain. JESUS TAKE THE WHEEL, Hallelujah 😬!</ThemedText>
       </ThemedView>
     </ParallaxScrollView>
   );
